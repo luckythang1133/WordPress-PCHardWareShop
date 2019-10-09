@@ -1,0 +1,12 @@
+
+// UPDATE AND PUSH
+git add .
+git commit -m "type your commit message here"
+git push origin master
+
+
+
+//add + commit
+$ git commit -a -m "commit to repository" 
+
+$ git push
